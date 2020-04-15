@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bffccf4-0a4a-4893-9fde-268a3eb37ca0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aYkHdAhFZho5HrDvue0pUAH39N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.TestPoint3D">
+    <configuration name="TestPoint2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="point.TestPoint2D" />
+      <module name="BT_PointClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="point.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPoint3D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="point.TestPoint3D" />
+      <module name="BT_PointClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="point.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestPoint3D" />
+        <item itemvalue="Application.TestPoint2D" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bffccf4-0a4a-4893-9fde-268a3eb37ca0" name="Default Changelist" comment="" />
+      <created>1586919827957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586919827957</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="612" y="188" key="#com.intellij.ide.util.MemberChooser" timestamp="1586925884966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="612" y="188" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1586925884966" />
+    <state x="2685" y="264" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1586920200871" />
+    <state width="1493" height="152" key="GridCell.Tab.0.bottom" timestamp="1586926619933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="152" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1586926619933" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1586921227524" />
+    <state width="1493" height="152" key="GridCell.Tab.0.center" timestamp="1586926619932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="152" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1586926619932" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1586921227524" />
+    <state width="1493" height="152" key="GridCell.Tab.0.left" timestamp="1586926619932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="152" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1586926619932" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1586921227524" />
+    <state width="1493" height="152" key="GridCell.Tab.0.right" timestamp="1586926619933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="152" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1586926619933" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1586921227524" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586924040571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1586924040571" />
+  </component>
+</project>
